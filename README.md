@@ -8,37 +8,56 @@
 ***
                                           ⭐️ Features
 <div>
-* Steal browsers:
+<strong>
+* Steal browsers:<br>
 Firefox
+<br>
 Opera
+<br>
 Google-Chrome
+<br>
 Edge
+<br>
 Amigo
+<br>
 Yandex
+<br>
 Vivaldi
+<br>
 7star
+<br>
 Orbitum
+<br>
 Brave
+<br>
 Iridum
+<br>
 Uran
+<br>
 Epic-privacy-browser
+<br>
 Sputnik
+<br>
 Cent-browser
+<br>
 Orbitum
+<br>
 Jometa
-Torch
-* Steal system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics)
-* Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)
-* Firefox based browsers (db files, cookies, history, bookmarks)
-* Internet explorer/Edge (passwords)
-* Saved wifi networks & scan networks around device (SSID, BSSID)
-* File grabber (Documents, Images, Source codes, Databases, USB)
-* Steam, Telegram grabbing
-* Desktop screenshot
-* Removal of the log after dispatch
+<br>
+Torch<br>
+* Steal system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics)<br>
+* Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)<br>
+* Firefox based browsers (db files, cookies, history, bookmarks)<br>
+* Internet explorer/Edge (passwords)<br>
+* Saved wifi networks & scan networks around device (SSID, BSSID)<br>
+* File grabber (Documents, Images, Source codes, Databases, USB)<br>
+* Steam, Telegram grabbing<br>
+* Desktop screenshot<br>
+* Removal of the log after dispatch<br>
 
-Minuses:
-- Build size 30mb:(
+Minuses:<br>
+- Build size 30mb:(<br>
+</strong>
 </div>
 
 ***
