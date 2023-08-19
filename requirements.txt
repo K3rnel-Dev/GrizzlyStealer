@@ -1,0 +1,14 @@
+pyinstaller
+requests
+pywin32
+pypiwin32
+opencv-python
+Pillow
+pyTelegramBotAPI
+psutil
+GPUtil
+tabulate
+pycryptodome
+configparser
+ffpass
+AES
