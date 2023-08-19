@@ -1,5 +1,5 @@
 <h1 align="center">Grizzly Stealer</h1> 
-<p align= "center"> <kbd> <img  src="https://github.com/K3rnel-Dev/GrizzlyStealer/blob/main/GrizzlyMain.jpg" width="700" height="700"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://github.com/K3rnel-Dev/GrizzlyStealer/blob/main/GrizzlyMain.jpg" width="700"> </kbd><br><br>
 
 
 <h2 align="center">Created by</h1> 
