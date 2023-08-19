@@ -10,50 +10,50 @@
 <div>
 <strong>
 * Steal browsers:<br>
-Firefox
+⭐️Firefox
 <br>
-Opera
+⭐️Opera
 <br>
-Google-Chrome
+⭐️Google-Chrome
 <br>
-Edge
+⭐️Edge
 <br>
-Amigo
+⭐️Amigo
 <br>
-Yandex
+⭐️Yandex
 <br>
-Vivaldi
+⭐️Vivaldi
 <br>
-7star
+⭐️7star
 <br>
-Orbitum
+⭐️Orbitum
 <br>
-Brave
+⭐️Brave
 <br>
-Iridum
+⭐️Iridum
 <br>
-Uran
+⭐️Uran
 <br>
-Epic-privacy-browser
+⭐️Epic-privacy-browser
 <br>
-Sputnik
+⭐️Sputnik
 <br>
-Cent-browser
+⭐️Cent-browser
 <br>
-Orbitum
+⭐️Orbitum
 <br>
-Jometa
+⭐️Jometa
 <br>
-Torch<br>
-* Steal system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics)<br>
-* Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)<br>
-* Firefox based browsers (db files, cookies, history, bookmarks)<br>
-* Internet explorer/Edge (passwords)<br>
-* Saved wifi networks & scan networks around device (SSID, BSSID)<br>
-* File grabber (Documents, Images, Source codes, Databases, USB)<br>
-* Steam, Telegram grabbing<br>
-* Desktop screenshot<br>
-* Removal of the log after dispatch<br>
+⭐️Torch<br>
+⚡️ Steal system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics)<br>
+⚡️ Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)<br>
+⚡️ Firefox based browsers (db files, cookies, history, bookmarks)<br>
+⚡️ Internet explorer/Edge (passwords)<br>
+⚡️ Saved wifi networks & scan networks around device (SSID, BSSID)<br>
+⚡️ File grabber (Documents, Images, Source codes, Databases, USB)<br>
+⚡️ Steam, Telegram grabbing<br>
+⚡️ Desktop screenshot<br>
+⚡️ Removal of the log after dispatch<br>
 
 Minuses:<br>
 - Build size 30mb:(<br>
@@ -66,14 +66,14 @@ Minuses:<br>
 
                                           🖼️ How to use
 <div>
-<p>
-1) Edit grizzlyModules/system/arch_and_send.py and replace token and chat id for your.
-             (@BotFather) - Create new bot and replace token for your bot
-             (@chatIDrobot) - Replace chatid for your telegram-id
-2) Twice click on the mouse file, install_Grizzly.bat, 
-it automatically relies on python and automatically creates a build in the folder "buildes"
-3) Your output build it will be in folder "buildes"
-</p>
+
+1) Edit grizzlyModules/system/arch_and_send.py and replace token and chat id for your.<br>
+             (@BotFather) - Create new bot and replace token for your bot<br>
+             (@chatIDrobot) - Replace chatid for your telegram-id<br>
+2) Twice click on the mouse file, install_Grizzly.bat, <br>
+it automatically relies on python and automatically creates a build in the folder "buildes"<br>
+3) Your output build it will be in folder "buildes"<br>
+
 </div>
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
